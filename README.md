@@ -1,4 +1,4 @@
-MSc WINF - Modul "Key Technologies" (KETE) (HS23)
+MSc WINF - Modul "Key Technologies" (KETE) (HS24)
 =================================================   
 > ###### Last update: 12/8/24 dbe - updated version for HS24  
 
