@@ -1,0 +1,552 @@
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/1
+
+
+<h4>Non-Generalization Principles and Transfer Learning Technique</h4>
+https://www.analyticsvidhya.com/blog/2022/09/non-generalization-principles-and-transfer-learning-technique/
+<h4>Sentiment Analysis with NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/09/sentiment-analysis-with-nlp/
+<h4>Fine-Tuning BERT with Masked Language Modeling</h4>
+https://www.analyticsvidhya.com/blog/2022/09/fine-tuning-bert-with-masked-language-modeling/
+<h4>Tokenizer-free Language Modeling with Pixels</h4>
+https://www.analyticsvidhya.com/blog/2022/09/tokenizer-free-language-modeling-with-pixels/
+<h4>Interview Questions on NLP Fundamentals</h4>
+https://www.analyticsvidhya.com/blog/2022/09/interview-questions-on-nlp-fundamentals/
+<h4>Complete Guide to Analyzing Movie Reviews Using NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/09/complete-guide-to-analyzing-movie-reviews-using-nlp/
+<h4>Join the Upcoming Datahour Sessions!</h4>
+https://www.analyticsvidhya.com/blog/2022/09/join-the-upcoming-datahour-sessions/
+<h4>Implementing Count Vectorizer and TF-IDF in NLP using PySpark</h4>
+https://www.analyticsvidhya.com/blog/2022/09/implementing-count-vectorizer-and-tf-idf-in-nlp-using-pyspark/
+<h4>Understanding Word Embeddings and Building your First RNN Model</h4>
+https://www.analyticsvidhya.com/blog/2022/09/understanding-word-embeddings-and-building-your-first-rnn-model/
+<h4>Sentiment Analysis using Transformers – Part I</h4>
+https://www.analyticsvidhya.com/blog/2022/09/sentiment-analysis-using-transformers-part-i/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/2
+
+
+<h4>Supervised Topic Models</h4>
+https://www.analyticsvidhya.com/blog/2022/08/supervised-topic-models/
+<h4>Most Frequently Asked NLP Interview Questions</h4>
+https://www.analyticsvidhya.com/blog/2022/08/most-frequently-asked-nlp-interview-questions/
+<h4>Deep Learning Vision: Digitizing the World</h4>
+https://www.analyticsvidhya.com/blog/2022/08/deep-learning-vision-digitizing-the-world/
+<h4>Reduce Retraining by Recycling Prompts</h4>
+https://www.analyticsvidhya.com/blog/2022/08/reduce-retraining-by-recycling-prompts/
+<h4>Test your Data Science Skills on Transformers library</h4>
+https://www.analyticsvidhya.com/blog/2022/08/test-your-data-science-skills-on-transformers-library/
+<h4>Theory Behind the Basics of NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/08/theory-behind-the-basics-of-nlp/
+<h4>The Evolution of NLP from 1950 to 2022</h4>
+https://www.analyticsvidhya.com/blog/2022/07/the-evolution-of-nlp-from-1950-to-2022/
+<h4>Natural Language Processing for Indic Languages</h4>
+https://www.analyticsvidhya.com/blog/2022/07/natural-language-processing-for-indic-languages/
+<h4>Predicting the Toxicity of Comments Using Text Classification</h4>
+https://www.analyticsvidhya.com/blog/2022/07/predicting-the-toxicity-of-comments-using-text-classification/
+<h4>Custom Named Entity Recognition using spaCy v3</h4>
+https://www.analyticsvidhya.com/blog/2022/06/custom-named-entity-recognition-using-spacy-v3/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/3
+
+
+<h4>Stemming vs Lemmatization in NLP: Must-Know Differences</h4>
+https://www.analyticsvidhya.com/blog/2022/06/stemming-vs-lemmatization-in-nlp-must-know-differences/
+<h4>How to Train an NER model with HuggingFace?</h4>
+https://www.analyticsvidhya.com/blog/2022/06/how-to-train-an-ner-model-with-huggingface/
+<h4>The DataHour Synopsis: How to Stay Relevant in World of AI?</h4>
+https://www.analyticsvidhya.com/blog/2022/06/the-datahour-how-to-stay-relevant-in-world-of-ai/
+<h4>The DataHour Synopsis: Build Your First Chatbot: Open Source Tool</h4>
+https://www.analyticsvidhya.com/blog/2022/06/building-your-first-chatbot-open-source-tool-rasa/
+<h4>NLP Preprocessing Steps in Easy Way</h4>
+https://www.analyticsvidhya.com/blog/2022/05/nlp-preprocessing-steps-in-easy-way/
+<h4>A Complete Guide on Chatbot Development Using Python</h4>
+https://www.analyticsvidhya.com/blog/2022/05/a-complete-guide-on-chatbot-development-using-python/
+<h4>Disaster Tweet Classification Using LSTM – NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/05/disaster-tweet-classification-using-lstm-nlp/
+<h4>An Introduction to RNN for Beginners</h4>
+https://www.analyticsvidhya.com/blog/2022/04/an-introduction-to-rnn-for-beginners/
+<h4>A Comprehensive Overview of Sentiment Analysis</h4>
+https://www.analyticsvidhya.com/blog/2022/04/a-comprehensive-overview-of-sentiment-analysis/
+<h4>Keyword Extraction Methods from Documents in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/03/keyword-extraction-methods-from-documents-in-nlp/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/4
+
+
+<h4>A Comprehensive Overview on Automatic Speech Recognition (ASR)</h4>
+https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-overview-on-automatic-speech-recognition-asr/
+<h4>Learn Basics of Natural Language Processing (NLP) using Gensim: Part 1</h4>
+https://www.analyticsvidhya.com/blog/2022/03/learn-basics-of-natural-language-processing-nlp-using-gensim-part-1/
+<h4>Syntactical Parsing in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/03/syntactical-parsing-in-nlp/
+<h4>Fake News Classification Using Deep Learning</h4>
+https://www.analyticsvidhya.com/blog/2022/03/fake-news-classification-using-deep-learning/
+<h4>Search Engines Using Deep Learning</h4>
+https://www.analyticsvidhya.com/blog/2022/02/search-engines-using-deep-learning/
+<h4>Sentiment Analysis with NLP &amp; Deep Learning</h4>
+https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-with-nlp-deep-learning/
+<h4>Sentiment Analysis of IMDB Reviews with NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/02/sentiment-analysis-of-imdb-reviews-with-nlp/
+<h4>Text Cleaning Methods in NLP | Part-2</h4>
+https://www.analyticsvidhya.com/blog/2022/02/text-cleaning-methods-in-nlp-part-2/
+<h4>Supreme Court Judgement Prediction</h4>
+https://www.analyticsvidhya.com/blog/2022/02/supreme-court-judgement-prediction/
+<h4>Industrial Application of NLP: Task I</h4>
+https://www.analyticsvidhya.com/blog/2022/02/industrial-application-of-nlp-task-i/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/5
+
+
+<h4>Text Summarisation</h4>
+https://www.analyticsvidhya.com/blog/2022/02/text-summarisation/
+<h4>Interactive Tweet Sentiment Visualization</h4>
+https://www.analyticsvidhya.com/blog/2022/02/interactive-tweet-sentiment-visualization/
+<h4>Machine Learning Techniques for Text Representation in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/02/machine-learning-techniques-for-text-representation-in-nlp/
+<h4>Text Analysis app using Spacy, Streamlit, and Hugging face Spaces</h4>
+https://www.analyticsvidhya.com/blog/2022/01/text-analysis-app-using-spacy-streamlit-and-hugging-face-spaces/
+<h4>Text Cleaning Methods in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/01/text-cleaning-methods-in-nlp/
+<h4>Text Classification &amp; Entity Recognition &amp;amp in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/01/text-classification-entity-recognition-amp-in-nlp/
+<h4>Master Natural Language Processing in 2022 with Best Resources</h4>
+https://www.analyticsvidhya.com/blog/2022/01/master-natural-language-processing-in-2022-with-best-resources/
+<h4>Introduction to Natural Language Processing and Tokenization</h4>
+https://www.analyticsvidhya.com/blog/2022/01/introduction-to-natural-language-processing-and-tokenization/
+<h4>Convolutional Neural Network: An Overview</h4>
+https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/
+<h4>Building Explainer Dashboards in Python</h4>
+https://www.analyticsvidhya.com/blog/2022/01/building-explainer-dashboards-in-python/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/6
+
+
+<h4>Analysis of Zero Crossing Rates of Different Music Genre Tracks</h4>
+https://www.analyticsvidhya.com/blog/2022/01/analysis-of-zero-crossing-rates-of-different-music-genre-tracks/
+<h4>NLP Tutorials Part II: Feature Extraction</h4>
+https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-ii-feature-extraction/
+<h4>Hacking Into Nvidia Nemo Script(Download Common Voice)</h4>
+https://www.analyticsvidhya.com/blog/2022/01/hacking-into-nvidia-nemo-scriptdownload-common-voice/
+<h4>Sentiment Analysis with LSTM</h4>
+https://www.analyticsvidhya.com/blog/2022/01/sentiment-analysis-with-lstm/
+<h4>Roadmap to Master NLP in 2022</h4>
+https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/
+<h4>NLP Tutorials Part -I from Basics to Advance</h4>
+https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
+<h4>Creating a Youtube Summariser – Mini NLP Project</h4>
+https://www.analyticsvidhya.com/blog/2022/01/youtube-summariser-mini-nlp-project/
+<h4>GUI calculator using tkinter Python</h4>
+https://www.analyticsvidhya.com/blog/2022/01/gui-calculator-using-tkinter-python/
+<h4>10 Best Data Science Websites to Find Datasets for your Next DS Project</h4>
+https://www.analyticsvidhya.com/blog/2022/01/10-best-data-science-websites-to-find-datasets-for-your-next-ds-project/
+<h4>Hugging Face Transformers Pipeline Functions | Advanced NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/01/hugging-face-transformers-pipeline-functions-advanced-nlp/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/7
+
+
+<h4>Writing Test Cases for Machine Learning systems</h4>
+https://www.analyticsvidhya.com/blog/2022/01/writing-test-cases-for-machine-learning/
+<h4>Knowledge Distillation: Theory and End to End Case Study</h4>
+https://www.analyticsvidhya.com/blog/2022/01/knowledge-distillation-theory-and-end-to-end-case-study/
+<h4>Building Language Models in NLP</h4>
+https://www.analyticsvidhya.com/blog/2022/01/building-language-models-in-nlp/
+<h4>Classification of Tweets using SpaCy</h4>
+https://www.analyticsvidhya.com/blog/2022/01/classification-of-tweets-using-spacy/
+<h4>Text Classification using BERT and TensorFlow</h4>
+https://www.analyticsvidhya.com/blog/2021/12/text-classification-using-bert-and-tensorflow/
+<h4>All about Data Science Professionals</h4>
+https://www.analyticsvidhya.com/blog/2021/12/all-about-data-science-professionals/
+<h4>All NLP tasks using Transformers Pipeline</h4>
+https://www.analyticsvidhya.com/blog/2021/12/all-nlp-tasks-using-transformers-package/
+<h4>Intent Classification with Convolutional Neural Networks</h4>
+https://www.analyticsvidhya.com/blog/2021/12/intent-classification-with-convolutional-neural-networks/
+<h4>Sentiment Analysis on tweets with LSTM for Beginners</h4>
+https://www.analyticsvidhya.com/blog/2021/12/sentiment-analysis-on-tweets-with-lstm-for-beginners/
+<h4>Top Data Science Projects to add to your Portfolio in 2021</h4>
+https://www.analyticsvidhya.com/blog/2021/12/top-data-science-projects-to-add-to-your-portfolio-in-2021/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/8
+
+
+<h4>An End-to-End Guide on Google’s BERT</h4>
+https://www.analyticsvidhya.com/blog/2021/12/googles-bert/
+<h4>Dependency Parsing in Natural Language Processing with Examples</h4>
+https://www.analyticsvidhya.com/blog/2021/12/dependency-parsing-in-natural-language-processing-with-examples/
+<h4>An End-to-End Guide to Model Explainability</h4>
+https://www.analyticsvidhya.com/blog/2021/11/model-explainability/
+<h4>Pattern Library for Natural Language Processing in Python</h4>
+https://www.analyticsvidhya.com/blog/2021/11/pattern-library-for-natural-language-processing-in-python/
+<h4>NLP – Tags, Frequencies, Unique Terms, n-grams</h4>
+https://www.analyticsvidhya.com/blog/2021/11/nlp-tags-frequencies-unique-terms-n-grams/
+<h4>Making Natural Language Processing easy with TextBlob</h4>
+https://www.analyticsvidhya.com/blog/2021/10/making-natural-language-processing-easy-with-textblob/
+<h4>Complete Tutorial On Natural Language Processing using spaCy</h4>
+https://www.analyticsvidhya.com/blog/2021/09/complete-tutorial-on-natural-language-processing-using-spacy/
+<h4>Building a Machine Learning Model for Title Generation</h4>
+https://www.analyticsvidhya.com/blog/2021/09/building-a-machine-learning-model-for-title-generation/
+<h4>Sentiment Analysis with LSTM and TorchText with Code and Explanation</h4>
+https://www.analyticsvidhya.com/blog/2021/09/sentiment-analysis-with-lstm-and-torchtext-with-code-and-explanation/
+<h4>Performing Email Spam Detection Using BERT in Python</h4>
+https://www.analyticsvidhya.com/blog/2021/09/performing-email-spam-detection-using-bert-in-python/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/9
+
+
+<h4>Latent Semantic Analysis and its Uses in Natural Language Processing</h4>
+https://www.analyticsvidhya.com/blog/2021/09/latent-semantic-analysis-and-its-uses-in-natural-language-processing/
+<h4>What Are n-grams and How to Implement Them in Python?</h4>
+https://www.analyticsvidhya.com/blog/2021/09/what-are-n-grams-and-how-to-implement-them-in-python/
+<h4>“Ok, Google!”— Speech to Text in Python with Deep Learning in 2 minutes</h4>
+https://www.analyticsvidhya.com/blog/2021/09/ok-google-speech-to-text-in-python-with-deep-learning-in-2-minutes/
+<h4>An Explanatory Guide to BERT Tokenizer</h4>
+https://www.analyticsvidhya.com/blog/2021/09/an-explanatory-guide-to-bert-tokenizer/
+<h4>Build Your First Discord Bot Using Python</h4>
+https://www.analyticsvidhya.com/blog/2021/09/build-your-first-discord-bot-using-python/
+<h4>A Deep Dive Into Transformers Library</h4>
+https://www.analyticsvidhya.com/blog/2021/09/a-deep-dive-into-transformers-library/
+<h4>Creating a Movie Reviews Classifier Using TF-IDF in Python</h4>
+https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/
+<h4>Essential Text Pre-processing Techniques for NLP!</h4>
+https://www.analyticsvidhya.com/blog/2021/09/essential-text-pre-processing-techniques-for-nlp/
+<h4>Sentiment classification using NLP With Text Analytics</h4>
+https://www.analyticsvidhya.com/blog/2021/09/sentiment-classification-using-nlp-with-text-analytics/
+<h4>Text Preprocessing techniques for Performing Sentiment Analysis!</h4>
+https://www.analyticsvidhya.com/blog/2021/08/text-preprocessing-techniques-for-performing-sentiment-analysis/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/10
+
+
+<h4>An Introduction to Natural Language Processing with Transformers</h4>
+https://www.analyticsvidhya.com/blog/2021/08/an-introduction-to-natural-language-processing-with-transformers/
+<h4>Beginner’s Guide To Text Classification Using PyCaret</h4>
+https://www.analyticsvidhya.com/blog/2021/08/beginners-guide-to-text-classification-using-pycaret/
+<h4>Predict the next word of your text using Long Short Term Memory (LSTM)</h4>
+https://www.analyticsvidhya.com/blog/2021/08/predict-the-next-word-of-your-text-using-long-short-term-memory-lstm/
+<h4>A Guide to Perform 5 Important Steps of NLP Using Python</h4>
+https://www.analyticsvidhya.com/blog/2021/08/a-guide-to-perform-5-important-steps-of-nlp-using-python/
+<h4>Build an end-end Currency Convertor chatbot with Python and Dialogflow</h4>
+https://www.analyticsvidhya.com/blog/2021/08/build-an-end-end-currency-convertor-chatbot-with-python-and-dialogflow/
+<h4>Sentiment Analysis Using Bidirectional Stacked LSTM</h4>
+https://www.analyticsvidhya.com/blog/2021/08/sentiment-analysis-using-bidirectional-stacked-lstm/
+<h4>Malawi News Classification -An NLP Project</h4>
+https://www.analyticsvidhya.com/blog/2021/08/malawi-news-classification-an-nlp-project/
+<h4>Text Preprocessing in Python -Getting started with NLP</h4>
+https://www.analyticsvidhya.com/blog/2021/08/text-preprocessing-in-python-getting-started-with-nlp/
+<h4>Getting Started with Natural Language Processing using Python</h4>
+https://www.analyticsvidhya.com/blog/2021/07/getting-started-with-natural-language-processing-using-python/
+<h4>Detecting Fake News with Natural Language Processing</h4>
+https://www.analyticsvidhya.com/blog/2021/07/detecting-fake-news-with-natural-language-processing/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/11
+
+
+<h4>NLTK: A Beginners Hands-on Guide to Natural Language Processing</h4>
+https://www.analyticsvidhya.com/blog/2021/07/nltk-a-beginners-hands-on-guide-to-natural-language-processing/
+<h4>Let’s Understand How does a chatbot work ?</h4>
+https://www.analyticsvidhya.com/blog/2021/07/lets-understand-how-does-a-chatbot-work/
+<h4>Performing Sentiment Analysis Using Twitter Data!</h4>
+https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/
+<h4>Understanding Natural Language Processing -A Beginner’s Guide</h4>
+https://www.analyticsvidhya.com/blog/2021/07/understanding-natural-language-processing-a-beginners-guide/
+<h4>Bag-of-words vs TFIDF vectorization –A Hands-on Tutorial</h4>
+https://www.analyticsvidhya.com/blog/2021/07/bag-of-words-vs-tfidf-vectorization-a-hands-on-tutorial/
+<h4>Word2Vec For Word Embeddings -A Beginner’s Guide</h4>
+https://www.analyticsvidhya.com/blog/2021/07/word2vec-for-word-embeddings-a-beginners-guide/
+<h4>A simple start with Natural Language Processing!</h4>
+https://www.analyticsvidhya.com/blog/2021/07/a-simple-start-with-natural-language-processing/
+<h4>Topic extraction From Prime Minister Modi’s Speech</h4>
+https://www.analyticsvidhya.com/blog/2021/07/topic-extraction-from-pm-modi-speech/
+<h4>Topic modeling With Naive Bayes Classifier</h4>
+https://www.analyticsvidhya.com/blog/2021/07/topic-modeling-with-naive-bayes-classifier/
+<h4>Topic Modelling With LDA -A Hands-on Introduction</h4>
+https://www.analyticsvidhya.com/blog/2021/07/topic-modelling-with-lda-a-hands-on-introduction/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/12
+
+
+<h4>Build a simple Chatbot using NLTK Library in Python</h4>
+https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
+<h4>Beginner’s Guide To Natural Language Processing Using SpaCy</h4>
+https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-of-natural-language-processing-using-spacy/
+<h4>Part 2: Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/
+<h4>Build Your Own Fake News Classifier With NLP</h4>
+https://www.analyticsvidhya.com/blog/2021/06/build-your-own-fake-news-classifier-with-nlp/
+<h4>Topic Modeling and Latent Dirichlet Allocation(LDA) using Gensim and Sklearn : Part 1</h4>
+https://www.analyticsvidhya.com/blog/2021/06/topic-modeling-and-latent-dirichlet-allocationlda-using-gensim-and-sklearn-part-1/
+<h4>Text Preprocessing in NLP with Python codes</h4>
+https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/
+<h4>Word Sense Disambiguation: Importance in Natural Language Processing</h4>
+https://www.analyticsvidhya.com/blog/2021/06/word-sense-disambiguation-importance-in-natural-language-processing/
+<h4>Part 8: Step by Step Guide to Master NLP – Useful Natural Language Processing Tasks</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-8-step-by-step-guide-to-master-nlp-useful-natural-language-processing-tasks/
+<h4>Part 7: Step by Step Guide to Master NLP – Word Embedding in Detail</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-7-step-by-step-guide-to-master-nlp-word-embedding/
+<h4>Natural Language Processing – Sentiment Analysis using LSTM</h4>
+https://www.analyticsvidhya.com/blog/2021/06/natural-language-processing-sentiment-analysis-using-lstm/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/13
+
+
+<h4>A Gentle Introduction To MuRIL : Multilingual Representations for Indian Languages</h4>
+https://www.analyticsvidhya.com/blog/2021/06/a-gentle-introduction-to-muril-multilingual-representations-for-indian-languages/
+<h4>NLP: Answer Retrieval from Document using Python</h4>
+https://www.analyticsvidhya.com/blog/2021/06/nlp-answer-retrieval-from-document-using-python/
+<h4>Part 6: Step by Step Guide to Master NLP – Word2Vec</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-6-step-by-step-guide-to-master-nlp-word2vec/
+<h4>Part 5: Step by Step Guide to Master NLP – Word Embedding and Text Vectorization</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/
+<h4>Part 4: Step by Step Guide to Master NLP – Text Cleaning Techniques</h4>
+https://www.analyticsvidhya.com/blog/2021/06/part-4-step-by-step-guide-to-master-natural-language-processing-in-python/
+<h4>Covid-19 Tweets Analysis using NLP with Python</h4>
+https://www.analyticsvidhya.com/blog/2021/06/covid-19-tweets-analysis-using-nlp-with-python/
+<h4>Text Analysis with Spacy to Master NLP techniques</h4>
+https://www.analyticsvidhya.com/blog/2021/06/text-analysis-with-spacy-to-master-nlp-techniques/
+<h4>Pre-Processing of Text Data in NLP</h4>
+https://www.analyticsvidhya.com/blog/2021/06/pre-processing-of-text-data-in-nlp/
+<h4>Must Know Data Pre-processing Techniques for Natural Language Processing!</h4>
+https://www.analyticsvidhya.com/blog/2021/06/must-know-data-pre-processing-techniques-for-natural-language-processing/
+<h4>Language Translation with Transformer In Python!</h4>
+https://www.analyticsvidhya.com/blog/2021/06/language-translation-with-transformer-in-python/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/14
+
+
+<h4>Twitter Sentiment Analysis- A NLP Use-Case for Beginners</h4>
+https://www.analyticsvidhya.com/blog/2021/06/twitter-sentiment-analysis-a-nlp-use-case-for-beginners/
+<h4>Text Analytics of Resume Dataset with NLP!</h4>
+https://www.analyticsvidhya.com/blog/2021/06/text-analytics-of-resume-dataset-with-nlp/
+<h4>Measuring Text Similarity Using BERT</h4>
+https://www.analyticsvidhya.com/blog/2021/05/measuring-text-similarity-using-bert/
+<h4>Interesting NLP Use Cases Every Data Science Enthusiast should know!</h4>
+https://www.analyticsvidhya.com/blog/2021/05/interesting-nlp-use-cases-every-data-science-enthusiast-should-know/
+<h4>Implementing Transformers in NLP Under 5 Lines Of Codes</h4>
+https://www.analyticsvidhya.com/blog/2021/05/implementing-transformers-in-nlp-under-5-lines-of-codes/
+<h4>BERT for Natural Language Inference simplified in Pytorch!</h4>
+https://www.analyticsvidhya.com/blog/2021/05/bert-for-natural-language-inference-simplified-in-pytorch/
+<h4>Generate Questions from Movies!</h4>
+https://www.analyticsvidhya.com/blog/2021/05/generate-questions-from-movies/
+<h4>NLP: Building a Stemmer for Punjabi in Python!</h4>
+https://www.analyticsvidhya.com/blog/2021/05/stemmer-for-punjabi/
+<h4>SMS Spam Detection Using LSTM – A Hands On Guide!</h4>
+https://www.analyticsvidhya.com/blog/2021/05/sms-spam-detection-using-lstm-a-hands-on-guide/
+<h4>Build your own NLP based search engine Using BM25</h4>
+https://www.analyticsvidhya.com/blog/2021/05/build-your-own-nlp-based-search-engine-using-bm25/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/15
+
+
+<h4>Top 8 Python Libraries For Natural Language Processing (NLP) in 2021</h4>
+https://www.analyticsvidhya.com/blog/2021/05/top-8-python-libraries-for-natural-language-processing-nlp-in-2021/
+<h4>Role of Machine Learning in Natural Language Processing</h4>
+https://www.analyticsvidhya.com/blog/2021/04/role-of-machine-learning-in-natural-language-processing/
+<h4>Multilingualism in Natural Language Processing: Targeting Low Resource Indian Languages</h4>
+https://www.analyticsvidhya.com/blog/2020/12/multilingual-languages-in-natural-language-processing-targeting-low-resource-indian-languages/
+<h4>Top 15 Open-Source Datasets of 2020 that every Data Scientist Should add to their Portfolio!</h4>
+https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/
+<h4>A Quick Guide to Text Cleaning Using the nltk Library</h4>
+https://www.analyticsvidhya.com/blog/2020/11/text-cleaning-nltk-library/
+<h4>A Beginner’s Guide to Exploratory Data Analysis (EDA) on Text Data (Amazon Case Study)</h4>
+https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/
+<h4>Top 6 Open Source Pretrained Models for Text Classification you should use</h4>
+https://www.analyticsvidhya.com/blog/2020/03/6-pretrained-models-text-classification/
+<h4>Quick Introduction to Bag-of-Words (BoW) and TF-IDF for Creating Features from Text</h4>
+https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/
+<h4>Build Your First Text Classification model using PyTorch</h4>
+https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/
+<h4>3 Important NLP Libraries for Indian Languages You Should Try Out Today!</h4>
+https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/16
+
+
+<h4>Here’s your Learning Path to Master Computer Vision in 2020</h4>
+https://www.analyticsvidhya.com/blog/2020/01/computer-vision-learning-path-2020/
+<h4>A Comprehensive Learning Path to Understand and Master NLP in 2020</h4>
+https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/
+<h4>5 Weird and Hilarious Uses of Data Science</h4>
+https://www.analyticsvidhya.com/blog/2019/12/five-weird-data-science-uses/
+<h4>An Exhaustive Guide to Detecting and Fighting Neural Fake News using NLP</h4>
+https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/
+<h4>10 Exciting Real-World Applications of AI in Retail</h4>
+https://www.analyticsvidhya.com/blog/2019/12/10-exciting-real-world-applications-ai-retail/
+<h4>6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</h4>
+https://www.analyticsvidhya.com/blog/2019/12/6-challenging-data-science-projects-better-data-scientist/
+<h4>A Comprehensive Guide to Attention Mechanism in Deep Learning for Everyone</h4>
+https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/
+<h4>Knowledge Graph – A Powerful Data Science Technique to Mine Information from Text (with Python code)</h4>
+https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/
+<h4>7 Amazing NLP Hack Sessions to Watch out for at DataHack Summit 2019</h4>
+https://www.analyticsvidhya.com/blog/2019/10/top-7-natural-language-processing-nlp-hack-sessions-datahack-summit-2019-bengaluru/
+<h4>Demystifying BERT: A Comprehensive Guide to the Groundbreaking NLP Framework</h4>
+https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nlp-framework/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/17
+
+
+<h4>How Search Engines like Google Retrieve Results: Introduction to Information Extraction using Python and spaCy</h4>
+https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/
+<h4>A Complete List of Important Natural Language Processing Frameworks you should Know (NLP Infographic)</h4>
+https://www.analyticsvidhya.com/blog/2019/08/complete-list-important-frameworks-nlp/
+<h4>Innoplexus Sentiment Analysis Hackathon: Top 3 Out-of-the-Box Winning Approaches</h4>
+https://www.analyticsvidhya.com/blog/2019/08/innoplexus-sentiment-analysis-hackathon-top-3-out-of-the-box-winning-approaches/
+<h4>A Comprehensive Guide to Build your own Language Model in Python!</h4>
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/
+<h4>7 Innovative Machine Learning GitHub Projects you Should Try Out in Python</h4>
+https://www.analyticsvidhya.com/blog/2019/08/7-innovative-machine-learning-github-projects-in-python/
+<h4>Building a Recommendation System using Word2vec: A Unique Tutorial with Case Study in Python</h4>
+https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/
+<h4>OpenAI’s GPT-2: A Simple Guide to Build the World’s Most Advanced Text Generator in Python</h4>
+https://www.analyticsvidhya.com/blog/2019/07/openai-gpt2-text-generator-python/
+<h4>DataHack Radio #24: Exploring and Designing Chatbots with RASA’s Justina Petraitytė</h4>
+https://www.analyticsvidhya.com/blog/2019/07/exploring-designing-chatbots-rasa-justina-petraityte/
+<h4>Introduction to PyTorch-Transformers: An Incredible Library for State-of-the-Art NLP (with Python code)</h4>
+https://www.analyticsvidhya.com/blog/2019/07/pytorch-transformers-nlp-python/
+<h4>How to Get Started with NLP – 6 Unique Methods to Perform Tokenization</h4>
+https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/18
+
+
+<h4>Popular Machine Learning Applications and Use Cases in our Daily Life</h4>
+https://www.analyticsvidhya.com/blog/2019/07/ultimate-list-popular-machine-learning-use-cases/
+<h4>Learn how to Build your own Speech-to-Text Model (using Python)</h4>
+https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/
+<h4>11 Superb Data Science Videos Every Data Scientist Must Watch</h4>
+https://www.analyticsvidhya.com/blog/2019/07/11-data-science-videos-every-data-scientist-must-watch/
+<h4>How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models</h4>
+https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/
+<h4>Comprehensive Guide to Text Summarization using Deep Learning in Python</h4>
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
+<h4>Top 7 Machine Learning Github Repositories for Data Scientists</h4>
+https://www.analyticsvidhya.com/blog/2019/06/top-7-machine-learning-github-repositories-data-scientists/
+<h4>DataHack Radio #23: Ines Montani and Matthew Honnibal – The Brains behind spaCy</h4>
+https://www.analyticsvidhya.com/blog/2019/06/datahack-radio-ines-montani-matthew-honnibal-brains-behind-spacy/
+<h4>Decoding the Best Papers from ICLR 2019 – Neural Networks are Here to Rule</h4>
+https://www.analyticsvidhya.com/blog/2019/05/best-papers-iclr-2019/
+<h4>Don’t Miss these 5 Data Science GitHub Projects and Reddit Discussions (April Edition)</h4>
+https://www.analyticsvidhya.com/blog/2019/05/5-data-science-github-reddit-april/
+<h4>Last Chance to Register on our Flagship Program – AI &amp; ML BlackBelt</h4>
+https://www.analyticsvidhya.com/blog/2019/05/last-chance-register-course-ai-ml-blackbelt/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/19
+
+
+<h4>Learn how to Build and Deploy a Chatbot in Minutes using Rasa (IPL Case Study!)</h4>
+https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/
+<h4>Predicting Movie Genres using NLP – An Awesome Introduction to Multi-Label Classification</h4>
+https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/
+<h4>DataHack Radio #21: Detecting Fake News using Machine Learning with Mike Tamir, Ph.D.</h4>
+https://www.analyticsvidhya.com/blog/2019/04/datahack-radio-machine-learning-identify-fake-news-mike-tamir/
+<h4>8 Excellent Pretrained Models to get you Started with Natural Language Processing (NLP)</h4>
+https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/
+<h4>A Step-by-Step NLP Guide to Learn ELMo for Extracting Features from Text</h4>
+https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
+<h4>Introduction to Flair for NLP: A Simple yet Powerful State-of-the-Art NLP Library</h4>
+https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/
+<h4>Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)</h4>
+https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/
+<h4>A Must-Read NLP Tutorial on Neural Machine Translation – The Technique Powering Google Translate</h4>
+https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/
+<h4>27 Amazing Data Science Books Every Data Scientist Should Read</h4>
+https://www.analyticsvidhya.com/blog/2019/01/27-amazing-data-science-books-every-data-scientist-should-read/
+<h4>The 15 Most Popular Data Science and Machine Learning Articles on Analytics Vidhya in 2018</h4>
+https://www.analyticsvidhya.com/blog/2018/12/most-popular-articles-analytics-vidhya-2018/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/20
+
+
+<h4>Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python</h4>
+https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/
+<h4>An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)</h4>
+https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+<h4>An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)</h4>
+https://www.analyticsvidhya.com/blog/2018/10/mining-online-reviews-topic-modeling-lda/
+<h4>DataHack Radio #12: Exploring the Nuts and Bolts of Natural Language Processing with Sebastian Ruder</h4>
+https://www.analyticsvidhya.com/blog/2018/10/datahack-radio-podcast-nlp-research-sebastian-ruder/
+<h4>Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)</h4>
+https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+<h4>Complete tutorial on Text Classification using Conditional Random Fields Model (in Python)</h4>
+https://www.analyticsvidhya.com/blog/2018/08/nlp-guide-conditional-random-fields-text-classification/
+<h4>Comprehensive Hands on Guide to Twitter Sentiment Analysis with dataset and code</h4>
+https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/
+<h4>Facebook Open Sources Dataset on NLP and Navigation Every Data Scientist should Download</h4>
+https://www.analyticsvidhya.com/blog/2018/07/facebook-open-sources-dataset-on-nlp-and-navigation-every-data-scientist-should-download/
+<h4>Samsung’s ConZNet Algorithm just won Two Popular NLP Challenges (Dataset Links Inside)</h4>
+https://www.analyticsvidhya.com/blog/2018/07/samsungs-conznet-algorithm-won-2-huge-nlp-competitions/
+<h4>Salesforce has Developed One Single Model to Deal with 10 Different NLP Tasks</h4>
+https://www.analyticsvidhya.com/blog/2018/06/salesforce-has-developed-one-single-model-to-deal-with-10-different-nlp-tasks/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/21
+
+
+<h4>NLP Architect – An Awesome Open Source NLP Python Library from Intel AI Lab (with GitHub link)</h4>
+https://www.analyticsvidhya.com/blog/2018/05/nlp-architect-an-awesome-open-source-nlp-python-library-from-intel-ai-lab-with-github-link/
+<h4>Google Duplex is a Jaw Dropping Application of Natural Language and Audio Processing</h4>
+https://www.analyticsvidhya.com/blog/2018/05/google-duplex-natural-language-audio-processing/
+<h4>A Comprehensive Guide to Understand and Implement Text Classification in Python</h4>
+https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+<h4>Stanford’s NLP Course Projects are Available Online and they’re Super Impressive</h4>
+https://www.analyticsvidhya.com/blog/2018/04/stanford-nlp-course-projects-available-online-theyre-super-impressive/
+<h4>Microsoft’s Language Translation AI has Reached Human Levels of Accuracy</h4>
+https://www.analyticsvidhya.com/blog/2018/03/microsofts-claims-language-translation-ai-reached-human-levels-accuracy/
+<h4>How to create a poet / writer using Deep Learning (Text Generation using Python)?</h4>
+https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/
+<h4>Ultimate guide to deal with Text Data (using Python) – for Data Scientists and Engineers</h4>
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+<h4>Natural Language Processing for Beginners: Using TextBlob</h4>
+https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/
+<h4>AI May Have Decoded One of the World’s Most Mysterious Manuscripts</h4>
+https://www.analyticsvidhya.com/blog/2018/01/ai-may-decoded-one-worlds-mysterious-manuscripts/
+<h4>IBM using AI to Predict the risk of Psychosis</h4>
+https://www.analyticsvidhya.com/blog/2018/01/ibm-using-machine-learning-predict-risk-psychosis/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/22
+
+
+<h4>Building a FAQ Chatbot in Python – The Future of Information Searching</h4>
+https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/
+<h4>Alibaba’s Neural Network Model Beat the Highest Human Score in Stanford’s Reading Test</h4>
+https://www.analyticsvidhya.com/blog/2018/01/alibabas-neural-network-model-beat-highest-human-score-stanfords-reading-test/
+<h4>11 most read Machine Learning articles from Analytics Vidhya in 2017</h4>
+https://www.analyticsvidhya.com/blog/2017/12/11-machine-learning-articles-analytics-vidhya-2017/
+<h4>Introduction to Computational Linguistics and Dependency Trees in data science</h4>
+https://www.analyticsvidhya.com/blog/2017/12/introduction-computational-linguistics-dependency-trees/
+<h4>FlashText – A library faster than Regular Expressions for NLP tasks</h4>
+https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions/
+<h4>The Essential NLP Guide for data scientists (with codes for top 10 common NLP tasks)</h4>
+https://www.analyticsvidhya.com/blog/2017/10/essential-nlp-guide-data-scientists-top-10-nlp-tasks/
+<h4>Text Classification &amp; Word Representations using FastText (An NLP library by Facebook)</h4>
+https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
+<h4>30 Questions to test a data scientist on Natural Language Processing [Solution: Skilltest – NLP]</h4>
+https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+<h4>An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec</h4>
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+<h4>Natural Language Processing Made Easy – using SpaCy (​in Python)</h4>
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%e2%80%8bin-python/
+
+https://www.analyticsvidhya.com/blog/tag/nlp/page/23
+
+
+<h4>Measuring Audience Sentiments about Movies using Twitter and Text Analytics</h4>
+https://www.analyticsvidhya.com/blog/2017/03/measuring-audience-sentiments-about-movies-using-twitter-and-text-analytics/
+<h4>Sentiment Analysis of Twitter Posts on Chennai Floods using Python</h4>
+https://www.analyticsvidhya.com/blog/2017/01/sentiment-analysis-of-twitter-posts-on-chennai-floods-using-python/
+<h4>Ultimate Guide to Understand and Implement Natural Language Processing (with codes in Python)</h4>
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+<h4>Data Science Consultant Text Mining – Gurgaon / Pune ( 5-8 Years of Experience )</h4>
+https://www.analyticsvidhya.com/blog/2016/10/data-science-consultant-text-mining-gurgaon-pune-5-8-years-of-experience/
+<h4>Beginners Guide to Topic Modeling in Python</h4>
+https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+<h4>Senior Software Engineer/ Senior NLP Engineer – Pune / Kolkata</h4>
+https://www.analyticsvidhya.com/blog/2016/07/senior-software-engineer-senior-etl-engineer-pune-kolkata/
+<h4>Step by step guide to building sentiment analysis model using graphlab</h4>
+https://www.analyticsvidhya.com/blog/2016/02/step-step-guide-building-sentiment-analysis-model-graphlab/
+<h4>Data Scientist – Bangalore (5+ years of experience)</h4>
+https://www.analyticsvidhya.com/blog/2016/01/data-scientist-bangalore-5-years-experience/
+<h4>Text Mining / Text Analytics / NLP – Sr Resource – Gurgaon (5+ years of experience)</h4>
+https://www.analyticsvidhya.com/blog/2016/01/text-mining-text-analytics-nlp-sr-resource-gurgaon-6-years-experience/
+<h4>6 Practices to enhance the performance of a Text Classification Model</h4>
+https://www.analyticsvidhya.com/blog/2015/10/6-practices-enhance-performance-text-classification-model/
