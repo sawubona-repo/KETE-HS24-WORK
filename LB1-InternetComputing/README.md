@@ -10,6 +10,7 @@
   CURL [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
    
 > Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL Online or CommandLine
+> [HowTo](HOWTO_Curl-Examples.md)
 
 * Web Traffic Visualization  
   [Logstalgia](logstalgia.io) is a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.
