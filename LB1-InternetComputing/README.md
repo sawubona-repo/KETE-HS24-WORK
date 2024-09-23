@@ -9,8 +9,7 @@
   CURL [Guide](https://ec.haxx.se/) is an extensive guide for all things curl
   CURL [Cheat Sheet](https://github.com/dennyzhang/cheatsheet.dennyzhang.com/tree/master/cheatsheet-curl-A4)  
    
-> Read [HowTo CURL Examples](LB1-InternetComputing/HOWTO_Curl-Examples.md) for examples using CURL Online or CommandLine
-> [HowTo](HOWTO_Curl-Examples.md)
+> Read [HowTo CURL Examples](HOWTO_Curl-Examples.md) for examples using CURL Online or CommandLine
 
 * Web Traffic Visualization  
   [Logstalgia](logstalgia.io) is a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.
@@ -26,7 +25,7 @@
 </br>
 
 ## (Inter)Networking Examples
-> See [HOWTO_Networking](LB1-InternetComputing/HOWTO_Networking.md) for some examples on exploring the (Inter)Network 
+> See [HOWTO_Networking](HOWTO_Networking.md) for some examples on exploring the (Inter)Network 
 
 </br>
 
