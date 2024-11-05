@@ -17,7 +17,8 @@ def maths3(num1, num2):
 outputNum = maths2()
 print(outputNum)
 
-print(maths3(maths1, maths2))
+print(maths1(), maths2())
+print(maths3(maths1(), maths2()))
 
 
 # How many functions are there in the code?
